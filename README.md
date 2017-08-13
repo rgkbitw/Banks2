@@ -6,7 +6,7 @@ This app was developed as part of an assignment in the BASIC SOFTWARE ENGINEERIN
 This repo can be a good tutorial for begineers who want to learn restfulAPI handling in Android.
 
 
-It covers the following Topics:-
+It covers the following Topics:-<br>
     1. Creating Basic User interfaces (UIS). <br>
     2. Event Handling .<br>
     3. Customizing AsyncTask to handle processes in the background .<br>
