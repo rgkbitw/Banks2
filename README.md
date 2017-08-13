@@ -18,6 +18,8 @@ It covers the following Topics:-
 10. And finally Stitching everything together. 
 
 The app uses IFSC's rest API https://github.com/mangrep/ifsc-rest-api The data there has been taken from RBI's website
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Some Screenshots:
