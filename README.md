@@ -24,6 +24,8 @@ The data there has been taken from RBI's website.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Some Screenshots:
+
+![onstart-alt-tag](https://www.dropbox.com/s/f8n5tev5nqqns1t/Screenshot_2017-08-13-18-06-36.png?dl=0)
   
  
 
