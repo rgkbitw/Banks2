@@ -18,12 +18,14 @@ It covers the following Topics:-<br>
     9. Handling Exceptions and possible errors. <br>
    10. And finally Stiching everything together. <br>
     
-
 The app uses IFSC's rest API https://github.com/mangrep/ifsc-rest-api 
 The data there has been taken from RBI's website.
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Some Screenshots:
+  
+ 
 
 
 
