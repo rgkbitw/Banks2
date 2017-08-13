@@ -25,13 +25,13 @@ The data there has been taken from RBI's website.
 
 Some Screenshots:
 
-  https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-36.png 
+ ![onstat-text](https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-36.png) 
   
-  https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-52.png
+ ![onmiddle-text](https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-52.png)
   
-  https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-56.png
+ ![onmiddle2-text](https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-56.png)
   
-  https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-07-02.png
+ ![onpost-text](https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-07-02.png)
   
  
 
