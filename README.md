@@ -21,11 +21,17 @@ It covers the following Topics:-<br>
 The app uses IFSC's rest API https://github.com/mangrep/ifsc-rest-api 
 The data there has been taken from RBI's website.
 
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Some Screenshots:
 
-![alt-text](Screenshot_2017-08-13-18-06-36.png)
+  https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-36.png 
+  
+  https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-52.png
+  
+  https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-06-56.png
+  
+  https://github.com/rgkbitw/Banks2/blob/master/Screenshot_2017-08-13-18-07-02.png
   
  
 
